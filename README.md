@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-    <img alt="Imagem do projeto DevLinks" src=".github/preview.jpg"
+    <img alt="Imagem do projeto DevLinks" src=".github/preview.png"
 
 </p>
 
@@ -32,6 +32,7 @@ Esse Projeto foi desenvolvido com as seguites tecnologias:
 - Git e GitHub
 
 ## 💻 Projeto
+
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🪪 Licença
